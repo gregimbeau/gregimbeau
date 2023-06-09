@@ -1,7 +1,6 @@
  
   <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/no-ragrets.svg"></a>
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg"></a>
-
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg"></a>
 
    ### THP STUDENT - SPRING SESSION
 
