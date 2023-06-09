@@ -2,7 +2,7 @@
   <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/no-ragrets.svg"></a>
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg"></a>
 
-   ### THP STUDENT - SPRING SESSION
+   ### THP STUDENT - SPRING SESSION 2023
 
 ![My Image](https://i.ibb.co/jLKHtnb/my-image.jpg)
 
