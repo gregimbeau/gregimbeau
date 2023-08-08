@@ -1,6 +1,6 @@
  
 [![Generic badge](https://img.shields.io/badge/NO-RAGRETS-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/POWEREDBY-RESPONSABILITY-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/POWERED_BY-RESPONSABILITY-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/CODING-WITH_PASSION-red.svg)](https://shields.io/)
 
 
