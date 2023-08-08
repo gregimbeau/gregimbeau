@@ -1,6 +1,8 @@
  
-  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/no-ragrets.svg"></a>
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg"></a>
+[![Generic badge](https://img.shields.io/badge/NO-RAGRETS-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/POWEREDBY-RESPONSABILITY-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/CODING-WITH_PASSION-red.svg)](https://shields.io/)
+
 
    ### THP STUDENT - SPRING SESSION 2023
 
