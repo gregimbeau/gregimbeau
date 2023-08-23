@@ -13,9 +13,11 @@
 
 ## Hi! i'm Guillaume, student Developper FullStack 
 
+* Curently learning React
+* Curently learning Javascript
 * Curently learning Rails7
 * Curently learning Ruby
-* Curently learning JS
+
 * Fluent in French, English, Spanish
 * Business owner (Organic shop)
 * 20 years experience working for various tech companies (Dell, Samsung..)
