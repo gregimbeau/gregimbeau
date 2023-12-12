@@ -11,12 +11,12 @@
 
 <br>
 
-## Hi! i'm Guillaume, student Developper FullStack 
+## Hi! i'm Guillaume, Developper FullStack 
 
-* Currently learning React
-* Currently learning Javascript
-* Currently learning Rails7
-* Currently learning Ruby
+* Trained in React
+* Trained in Javascript
+* Trained in Rails7
+* Trained in Ruby
 <br />
 
 * Fluent in French, English, Spanish
