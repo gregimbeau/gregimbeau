@@ -4,7 +4,7 @@
 [![Generic badge](https://img.shields.io/badge/CODING-WITH_PASSION-red.svg)](https://shields.io/)
 
 
-   ### THP STUDENT - SPRING SESSION 2023
+   ### ACTIVELY JOBHUNTING
 
 ![My Image](https://i.ibb.co/jLKHtnb/my-image.jpg)
 
