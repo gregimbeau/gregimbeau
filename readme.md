@@ -4,8 +4,7 @@
 [![Generic badge](https://img.shields.io/badge/CODING-WITH_PASSION-red.svg)](https://shields.io/)
 
 
-   ### ACTIVELY JOBHUNTING
-
+   
 ![My Image](https://i.ibb.co/jLKHtnb/my-image.jpg)
 
 
@@ -20,7 +19,6 @@
 <br />
 
 * Fluent in French, English, Spanish
-* Business owner (Organic shop)
 * 20 years experience working for various tech companies (Dell, Samsung..)
 
 
