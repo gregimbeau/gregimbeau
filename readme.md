@@ -11,7 +11,7 @@
 <br>
 
 ## Hi! i'm Guillaume, Developper FullStack 
-
+* Trained in Vuejs / Nuxt
 * Trained in React
 * Trained in Javascript
 * Trained in Rails7
