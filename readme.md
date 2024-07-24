@@ -5,8 +5,6 @@
 
 
    
-![My Image](https://grgb.fr/assets/moi-4775df05.png)
-
 
 <br>
 
