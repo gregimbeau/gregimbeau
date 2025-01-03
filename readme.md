@@ -18,10 +18,3 @@
 
 * Fluent in French, English, Spanish
 * 20 years experience working for various tech companies (Dell, Samsung..)
-
-
-## Interests
-
-* `Music` #bass player
-* `Healt and safety` #former firefighter
-* `Sport` #former polevault trainer
